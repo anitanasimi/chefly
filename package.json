@@ -1,0 +1,23 @@
+{
+  "name": "chefly",
+  "version": "1.0.0",
+  "description": "Recipe finder",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anitanasimi/chefly.git"
+  },
+  "author": "Anita Nasimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anitanasimi/chefly/issues"
+  },
+  "homepage": "https://github.com/anitanasimi/chefly#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  }
+}
